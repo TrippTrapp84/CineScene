@@ -1,0 +1,11 @@
+{
+  "name": "CineScene",
+  "tree": {
+    "$className": "DataModel",
+    "ServerStorage": {
+      "$className": "ServerStorage",
+      "$ignoreUnknownInstances": true,
+      "$path": "src"
+    }
+  }
+}
